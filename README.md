@@ -18,7 +18,7 @@ The provided jupyter notebooks offer a hands-on literate programming way of gett
 
 - [Notebook 1](https://github.com/everthemore/ATTP-2025/blob/main/ATTP_1.ipynb) provides an overview of using machine learning techniques to identify the critical point of the 2D Ising model.
 - [Notebook 2](https://github.com/everthemore/ATTP-2025/blob/main/ATTP_1-2.ipynb) provides some dimensionality reduction and data visualization techniques as well as using a VAE for both the Ising model and the MNIST datase.
-
+- [Reinforcemet learning](https://github.com/everthemore/ATTP-2025/tree/main/ReinforcementLearning) containes notebooks with implementations of basic RL concepts
 ## Prerequisites & Installation
 
 The repository contains `.ipynb` files so a familiarity with python is assumed. Moreover, knowledge of scientific and ML libraries such as `numpy` and `jax` is a bonus but not strictly nessecary.
@@ -67,3 +67,4 @@ Here are some extra resources for any intersted student that wants to delve more
 - [Structures of Neural Network Effective Theories](https://arxiv.org/pdf/2305.02334): Some more QFT+NN magic
 - [Stanford CS229: Machine Learning Course](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU): Amazing ML course by one of the leaders of the field
 - [Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en): One of the founding fathers of the field, many seminal papers are listed in his google scholar
+  
